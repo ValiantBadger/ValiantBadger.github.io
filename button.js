@@ -1,0 +1,5 @@
+
+function knappKlick(){
+
+    alert("!Error!")
+}
