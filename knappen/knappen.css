@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(147, 255, 39);
+    color: rgb(53, 228, 9);
+}
+
+
+button{
+    padding: 40px;
+    margin: 200px;
+    border-radius: 20px;
+    
+}
+
+
+h3{
+
+    margin-left: 483px;
+    stroke-dasharray: 20px;
+    hanging-punctuation: 40px;
+}
+
+.taltext{
+    margin-left: 400px;
+}
+
+
+.Main{
+    font-family: fantasy;
+}
