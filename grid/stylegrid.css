@@ -1,0 +1,19 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto ;
+  }
+
+  .grid-container {
+    display: grid;
+    justify-content: space-evenly;
+  }
+  .grid-container {
+    display: grid;
+    height: 400px;
+    align-content: start;
+  }
+  
+  div {
+    animation: mymove 5s infinite;
+  }
+  
