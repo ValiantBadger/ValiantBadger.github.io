@@ -15,7 +15,7 @@ ul {
   
   /* Change the link color on hover */
   li a:hover {
-    background-color: limegreen;
+    background-color: rgb(205, 50, 53);
     color: white;
   }
 
@@ -31,6 +31,11 @@ ul {
   }
 
   .active {
-    background-color: red;
-    color: rgb(32, 8, 8);
+    background-color: rgb(1, 1, 1);
+    color: rgb(245, 243, 243);
+  }
+
+  body {
+    background-image: url("https://ubuntucommunity.s3.us-east-2.amazonaws.com/original/2X/0/0921cb27d5604b464218a64ae88a3f43c7b7371a.png");
+    padding: auto;
   }

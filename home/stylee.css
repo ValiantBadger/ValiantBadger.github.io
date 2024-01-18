@@ -3,8 +3,12 @@ body{
     
 }
 
-
-
+img{
+    padding-left: 1200px;
+    padding-bottom: 550px;
+    align-items: center;
+    margin: -500px;
+}
 
 h3{
     padding-top: 100px;
