@@ -1,0 +1,42 @@
+div {
+  font-size: 65px;
+  padding-left: 20px;
+  color: white;
+}
+
+
+li a {
+  display: block;
+  color: #ffffff;
+  padding: 8px 16px;
+  font-size: 30px;
+  text-decoration: none;
+}
+
+
+li a:hover {
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 20px;
+  border-top: 100px;
+  margin-top: 20px;
+  width: 25%;
+  height: 100%;
+  position: fixed;
+  overflow: auto;
+}
+
+body {
+  background-image: url(POOKIE.PNG.jpg);
+  -webkit-backface-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
