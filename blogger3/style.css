@@ -21,7 +21,7 @@ li a {
 }
 
 li a.active {
-  background-color: #04AA6D;
+  background-color: blue;
   color: white;
 }
 
@@ -30,9 +30,10 @@ li a:hover:not(.active) {
   color: white;
 }
 
-
+h2{
+  margin-left: 350px;
+}
 p {
-  margin-top: 4px;
   margin-right: 20px;
   margin-left: 350px;
 }

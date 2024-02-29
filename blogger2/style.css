@@ -21,7 +21,7 @@ li a {
 }
 
 li a.active {
-  background-color: #04AA6D;
+  background-color: blue;
   color: white;
 }
 
@@ -32,7 +32,11 @@ li a:hover:not(.active) {
 
 
 p {
-  margin-top: 4px;
   margin-right: 20px;
+margin-bottom: 17px;
+margin-top: 10px;
+}
+
+.hej{
   margin-left: 350px;
 }
