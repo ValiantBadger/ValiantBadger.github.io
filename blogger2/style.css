@@ -30,16 +30,9 @@ li a:hover:not(.active) {
   color: white;
 }
 
-h3 {
-  margin-left: 100px;
-}
 
 p {
   margin-top: 4px;
   margin-right: 20px;
   margin-left: 350px;
-}
-
-.hej{
- margin-top: 100px;
 }
