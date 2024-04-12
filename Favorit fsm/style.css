@@ -1,0 +1,54 @@
+ul {
+  list-style-type: none;
+  width: 200px;
+}
+
+li a {
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: none;
+  background-color: #f1f1f1;
+}
+
+
+li a:hover {
+  background-color: rgb(205, 50, 53);
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 25%;
+  background-color: #f1f1f1;
+  height: 100%;
+  position: fixed;
+  overflow: auto;
+}
+
+.active {
+  background-color: rgb(1, 1, 1);
+  color: rgb(245, 243, 243);
+}
+
+body {
+  -webkit-backface-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.ar{
+  padding-left: 330px;
+  width: 300px;
+}
+
+.ag{
+  padding-left: 330px;
+}
+
+#grad {
+  background-image: linear-gradient(red, yellow);
+}
