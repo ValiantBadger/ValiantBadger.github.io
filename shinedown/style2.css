@@ -1,0 +1,12 @@
+body{
+    padding-right: 600px;
+    
+        background-image: url(shine.webp);
+        -webkit-backface-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        color: hotpink;
+
+    
+}

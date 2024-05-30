@@ -1,0 +1,10 @@
+body{
+    font-family: monospace;
+    padding: inherit;
+  text-decoration: wavy;
+  scrollbar-width: 11px;
+ border: 5cm; 
+ border-top: 40px;
+ font-weight: 600;
+ height: 100px;
+}
